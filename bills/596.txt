@@ -1,0 +1,40 @@
+	***Wellcome Customer***
+Cosmetic Shop
+Wiener Strasse 61
+A-4020 Linz
+----------------
+Customer Name: Glowybar
+Phone Number: +43 (0)681 20716861
+Bill Number: 836		Date: 29-02-24 11:26:18
+=================================================
+Products 		Quantity		Price
+=================================================
+Rose Day Cream			1	20 Euro.
+Rose Night Cream			1	20 Euro
+White Rose Day 			1	26 Euro
+White Rose Night 			1	26 Euro
+Bodylotion			1	10 Euro
+Rose Hand Cream			1	8 Euro
+Rose Water			1	16 Euro
+Auffüllen			1	40 Euro
+Neue Set			1	45 Euro
+Shellach			1	26 Euro
+Bedechung			1	40 Euro
+Pedikure			1	37 Euro
+Manikure			1	20 Euro
+Acryl Entfernen			1	15 Euro
+Haare-farbe			1	50 Euro
+Damen haare cut			1	30 Euro
+D.Waschen+föhnen			1	15 Euro
+C.W.+ Föhnen			1	50 Euro
+wimpern verlängerung			1	80 Euro
+Hair Cut Men			1	19 Euro
+Hair Wash Men			1	15 Euro
+-------------------------------------------------
+ Produkte Tax: 		    25.20 Euro
+ Haarespflege Tax: 		25.90 Euro
+ Nagelspflege Tax: 		33.45 Euro
+
+		Total Bill 		692.55
+-------------------------------------------------
+	**Thank you**	 See you again
